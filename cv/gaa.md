@@ -100,7 +100,7 @@ permalink: /cv/g_armeev
 	</tr>
 	
 	<tr class="rowu">
-		<td valign="top"><b>PUBLICATIONS</b></td>
+		<td valign="top"><b>SELECTED PUBLICATIONS</b></td>
 
 			<tr class="rowu"><td>2017</td><td align="left">Shaytan AK, Xiao H, <u>Armeev GA</u>, Wu C, Landsman D, Panchenko AR. Hydroxyl-radical footprinting combined with molecular modeling identifies unique features of DNA conformation and nucleosome positioning. <b>Nucleic Acids Res.</b> 2017;45: 9229–9243. doi:<a href="http://dx.doi.org/10.1093/nar/gkx616">10.1093/nar/gkx616</a>; </td></tr>
 
@@ -109,6 +109,7 @@ permalink: /cv/g_armeev
 			<tr class="rowu"><td>2016</td><td align="left">Valieva ME, <u>Armeev GA</u>, Kudryashova KS, Gerasimova NS, Shaytan AK, Kulaeva OI, et al. Large-scale ATP-independent nucleosome unfolding by a histone chaperone. <b>Nat Struct Mol Biol</b>. 2016;23: 1111–1116. doi:<a href="http://dx.doi.org/10.1038/nsmb.3321">10.1038/nsmb.3321</a></td></tr>
 						
 			</table>
+		<a htef="https://istina.msu.ru/profile/satary/"> All publications at ISTINA </a>
 		</td>
 	</tr>
 	
