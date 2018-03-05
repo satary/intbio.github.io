@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grigoriy A. Armeev
-permalink: /garmeev
+permalink: /g_armeev
 ---
 
 ##  <b>Grigoriy A. Armeev</b> - Curriculum Vitae
