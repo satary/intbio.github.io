@@ -107,54 +107,7 @@ to fill this
 			</table>
 		</td>
 	</tr>
-<!-- <tr class="rowu">
-		<td valign="top"><b>PROFESSIONAL<br>ACTIVITIES</b></td>
-		<td>
-			<table>
-				<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
-				<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
-				<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
-				<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
-				<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
-			</table>
-		</td>
-	</tr>
-	<tr class="rowu">
-		<td valign="top"><b>SKILLS</b></td>
-		<td>
-			<table>
-				<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
-				<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
-				<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
-				<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
-				<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
-			</table>
-		</td>
-	</tr>
-	<tr class="rowu">
-		<td valign="top"><b>STUDENT<br>SUPERVISION</b></td>
-		<td>
-			<table>
-				<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
-				<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
-				<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
-				<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
-				<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
-			</table>
-		</td>
-	</tr>
-	<tr class="rowu">
-		<td valign="top"><b>GRANTS</b></td>
-		<td>
-			<table>
-				<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
-				<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
-				<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
-				<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
-				<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
-			</table>
-		</td>
-	</tr> -->
+	
 	<tr class="rowu">
 		<td valign="top"><b>PUBLICATIONS</b></td>
 		<td>
@@ -209,40 +162,6 @@ to fill this
 				<tr><td align="right"></td><td><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=RU161773295&recNum=3&maxRec=44&office=&prevFilter=&sortOption=&queryString=p53+and+mutant&tab=NationalBiblio">&bull; (RU0002580006)</a> METHOD FOR SCREENING OF POTENTIAL ANTICANCER PREPARATIONS - FACT INHIBITORS</td></tr>
 				<tr><td align="right"></td><td><a href="http://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2013616706&TypeFile=html">&bull; Software suite for reconstruction of spatial structures of proteins and complex based on low-resolution electron density maps (in Russian)</a></td></tr>
 
-			</table>
-		</td>
-	</tr>
-<!-- <tr class="rowu">
-		<td valign="top"><b>TALKS</b></td>
-			<td>
-			<table>
-				<tr><td align="right">E-mail:</td><td>shaytan_akATmail.bio.msu.ru</td></tr>
-				<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
-				<tr><td align="right">Fax:</td><td>+7 495 939 57 38</td></tr>
-				<tr><td align="right">Skype:</td><td>alexeyshaytan</td></tr>
-				<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
-			</table>
-		</td>
-	</tr> -->
-	<tr class="rowu">
-		<td valign="top"><b>REFERENCES</b></td>
-		<td>
-			<table class="rowu">
-			<colgroup>
-			<col width="40%" />
-			<col width="40%" />
-			</colgroup>
-				<tr class="rowu">
-					<td align="left" valign="top"><a href="https://polly.phys.msu.ru/en/personnel/khokhlov.html"><b>Prof. Alexei R. Khokhlov</b></a> (PHD advisor)<br>Member of Russian Academy of Sciences<br>Chief, Chair of Polymer and Crystal Physics<br>Moscow State University, Russia </td>
-					<td align="left" valign="top"><a href="https://www.ncbi.nlm.nih.gov/CBBresearch/Panchenko/contact.html"><b>Dr. Anna R. Panchenko</b></a> (Post-doctoral advisor)<br>Lead Scientist<br>National Center for Biotechnology<br> Information, NIH, USA</td>
-				</tr>
-				<tr class="rowu">
-					<td align="left" valign="top"><a href="https://www.ncbi.nlm.nih.gov/research/staff/landsman/"><b>Dr. David Landsman</b></a><br>Chief, Computational Biology Branch<br>National Center for Biotechnology<br> Information, NIH, USA</td>
-					<td align="left" valign="top"><a href="http://bio.jhu.edu/directory/carl-wu/"><b>Prof. Carl Wu</b></a><br>Member of National Academy of Sciences<br> Department of Biology, Johns Hopkins University, USA</td>
-				</tr>
-				<tr class="rowu">
-					<td align="left" valign="top"><a href="https://www.uni-ulm.de/en/nawi/instituteofadvancedenergyrelatednanomaterials/staff/"><b>Prof. Pavel G. Khalatur</b></a><br>Institute of Advanced Energy Related<br> Nanomaterials, University of Ulm, Germany</td>
-				</tr>
 			</table>
 		</td>
 	</tr>
