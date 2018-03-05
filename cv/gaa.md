@@ -107,9 +107,10 @@ permalink: /cv/g_armeev
 			<tr class="rowu"><td>2016</td><td align="left">Shaytan AK, <u>Armeev GA</u>, Goncearenco A, Zhurkin VB, Landsman D, Panchenko AR. Coupling between Histone Conformations and DNA Geometry in Nucleosomes on a Microsecond Timescale: Atomistic Insights into Nucleosome Functions. <b>J Mol Biol</b>. 2016;428: 221–237. doi:<a href="http://dx.doi.org/10.1016/j.jmb.2015.12.004">10.1016/j.jmb.2015.12.004</a></td></tr>
 
 			<tr class="rowu"><td>2016</td><td align="left">Valieva ME, <u>Armeev GA</u>, Kudryashova KS, Gerasimova NS, Shaytan AK, Kulaeva OI, et al. Large-scale ATP-independent nucleosome unfolding by a histone chaperone. <b>Nat Struct Mol Biol</b>. 2016;23: 1111–1116. doi:<a href="http://dx.doi.org/10.1038/nsmb.3321">10.1038/nsmb.3321</a></td></tr>
+			<tr class="rowu"><td> </td><td align="left"><a htef="https://istina.msu.ru/profile/satary/"> All publications at ISTINA </a> </td></tr>
 						
 			</table>
-		<a htef="https://istina.msu.ru/profile/satary/"> All publications at ISTINA </a>
+		
 		</td>
 	</tr>
 	
