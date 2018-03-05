@@ -26,7 +26,7 @@ permalink: /cv/g_armeev
 					<td>
 						<table>
 							<tr><td align="right">Website:</td><td><a href="http://intbio.org">http://www.intbio.org</a></td></tr>
-							<tr><td align="right">GitHub:</td><td><a href="https://github.com/molsim">molsim</a></td></tr>
+							<tr><td align="right">GitHub:</td><td><a href="https://github.com/satary">satary</a></td></tr>
 
 							<tr>
 								<td align="right">Social media:</td>
@@ -54,7 +54,7 @@ permalink: /cv/g_armeev
 		<td>
 			<table>
 				<tr><td align="right">E-mail:</td><td><a href="mailto:armeev@intbio.org">armeev@intbio.org</a></td></tr>
-				<tr><td align="right">Tel:</td><td>+7 495 939 23 74</td></tr>
+				<tr><td align="right">Tel:</td><td>+7 495 939 57 38</td></tr>
 				<tr><td align="right">Skype:</td><td>Армеев Григорий</td></tr>
 				<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
 			</table>
@@ -69,7 +69,7 @@ to fill this
 	<tr class="rowu">
 		<td valign="top"><b>RESEARCH<br>INTERESTS</b></td>
 		<td>
-			Our broad aim is on integrating and applying modern concepts and approaches from physical and engineering sciences, molecular modeling, computer science and bioinformatics towards solving problems in biology and bioengineering. Particularly, our current focus is on studying chromatin structure at nucleosomal level via a combination of biophysical, modeling and bioinformatics approaches. We are interested in how nucleosome structure, positioning and dynamics affect interactions with other chromatin proteins and ultimately affect gene expression and control cell functioning at the epigenetic level.
+			fill that
 
 		</td>
 	</tr>
@@ -87,16 +87,10 @@ to fill this
 		<td valign="top"><b>EDUCATION/<br>DEGREES</b></td>
 		<td>
 			<table class="rowu">	
-				<tr class="rowu"><td align="center">2016</td><td align="center"><b>Certificate</b></td><td>Advanced Studies in Technology Transfer, FAES Graduate School at National Institues of Health, USA (15 credits, GPA 4.0, max 4.0)</td></tr>
-				<tr class="rowu"><td align="center">2014--2016</td><td align="center"><b></b></td><td><a href="https://faes.org/content/advanced-studies-in-technology-transfer">Advanced Studies in Technology Transfer</a>, FAES Graduate School at National Institues of Health, USA</td></tr>
-				<tr class="rowu"><td align="center">2011</td><td align="center"><b>Dr. Rer. Nat. degree (PHD)</b></td><td>University of Ulm, Germany; Thesis title “Computer simulations of self-assembling nanofibers from thiophene-peptide oligomers”; Magna cum laude; Advisor Prof. A.R. Khokhlov</td></tr>
-				<tr class="rowu"><td align="center">2010</td><td align="center"><b>PHD degree (physics and mathematics)</b></td><td>Moscow State University, Russia; Thesis title “Computer simulations and statistical analysis of self-organizing molecular structures based on peptides”; Advisor Prof. A.R. Khokhlov</td></tr>
-				<tr class="rowu"><td align="center">2007--2010</td><td align="center"><b>PHD student</b></td><td>Moscow State University, Faculty of Physics, Chair of Physics of Polymers and Crystals</td></tr>
-				<tr class="rowu"><td align="center">2007--2008</td><td align="center"><b></b></td><td>“Innovation Studio” Entrepreneurship Study Program at Moscow State University</td></tr>
-				<tr class="rowu"><td align="center">2007</td><td align="center"><b>Master of Science degree</b></td><td>Moscow State M.V. Lomonosov University, Faculty of Physics, Chair of Physics of Polymers and Crystals, diploma with excellence (GPA 5.0, max 5.0), Master Thesis “Study of hydration and adsorption of amino acid side chains via MD simulations”; Advisors Prof. A.R. Khokhlov, Prof. V.A. Ivanov. Selected as the best thesis at the department.</td></tr>
-				<tr class="rowu"><td align="center">2001--2007</td><td align="center"><b>Student</b></td><td>Moscow State M.V. Lomonosov University, Faculty of Physics</td></tr>
-				<tr class="rowu"><td align="center">2002--2005</td><td align="center"><b></b></td><td>Russian-German Institute of Science and Culture at MSU</td></tr>
-				<tr><td align="center">1991--2001</td><td align="center"><b>School student</b></td><td>Moscow Comprehensive School No. 1260 with advanced studies of English language. School-leaving certificate with golden medal (GPA 5.0, max 5.0)</td></tr>
+				<tr class="rowu"><td align="center">2014-</td><td align="center"><b>PHD student</b></td><td>Moscow State M.V. Lomonosov University, Faculty of Biology, Department of Bioengineering</td></tr>
+				<tr class="rowu"><td align="center">2014</td><td align="center"><b>Master of Science degree</b></td><td>Moscow State M.V. Lomonosov University, Faculty of Biology, Department of Bioengineering , diploma with honours, Master Thesis “Principles of nucleosome formation study via molecular modeling”; Advisor Dr. Alexey Shaytan.</td></tr>
+				<tr class="rowu"><td align="center">2009--2014</td><td align="center"><b>Student</b></td><td>Moscow State M.V. Lomonosov University, Faculty of Biology</td></tr>
+				<tr><td align="center">2007--2009</td><td align="center"><b>School student</b></td><td>Cherepovets School No. 37 with advanced studies of Chemistry and Biology.</td></tr>
 			</table>
 		</td>
 	</tr>
@@ -105,13 +99,11 @@ to fill this
 		<td valign="top"><b>AWARDS<br>SCHOLARSHIPS</b></td>
 		<td>
 			<table class="rowu">	
-				<tr class="rowu"><td align="center">2013</td><td align="center"><b></b></td><td>Scholarship of US-Russia Collaboration in the Biomedical Sciences NIH Visiting Fellows Program</td></tr>
-				<tr class="rowu"><td align="center">2013</td><td align="center"><b></b></td><td>Finalist of the 37-th competition of scientific works by young scientists of Lomonosov Moscow state University</td></tr>
-				<tr class="rowu"><td align="center">2012</td><td align="center"><b></b></td><td>Finalist of the contest of works by talented students, graduates and young scientists of Lomonosov Moscow State University established by O.V. Deripaska</td></tr>
-				<tr class="rowu"><td align="center">2008</td><td align="center"><b></b></td><td>BioCamp 2008, Novartis International Biotechnology Leadership Camp, Hong Kong: leader of the best Best Performing Team, 2nd Runner Up Best Performing Student</td></tr>
-				<tr class="rowu"><td align="center">2008</td><td align="center"><b></b></td><td>Russian Innovation Contest, participant of the 2nd round</td></tr>
-				<tr class="rowu"><td align="center">2005</td><td align="center"><b></b></td><td>Scholarship of Vladimir Potanin Foundation</td></tr>
-				<tr class="rowu"><td align="center">2005</td><td align="center"><b></b></td><td>Scholarship “Grant of Moscow”</td></tr>
+				<tr class="rowu"><td align="center">2018</td><td align="center"><b></b></td><td>Scholarship "Scholarships in 2018 for young teachers and researchers who have achieved significant scientific results in teaching and research activities" of Lomonosov Moscow state University</td></tr>
+				<tr class="rowu"><td align="center">2015</td><td align="center"><b></b></td><td>Finalist of of "Youth Scientific and Innovation Contest (UMNIK)"</td></tr>
+				<tr class="rowu"><td align="center">2013</td><td align="center"><b></b></td><td>Scholarship MSU CUDA  Center of Excellence</td></tr>
+				<tr class="rowu"><td align="center">2012</td><td align="center"><b></b></td><td>Scholarship MSU CUDA  Center of Excellence</td></tr>
+				<tr class="rowu"><td align="center">2007,2008,2009</td><td align="center"><b></b></td><td>Prize-winner of the All-Russian Olympiad of Schoolchildren in Biology</td></tr>
 			</table>
 		</td>
 	</tr>
