@@ -50,6 +50,13 @@ permalink: /team/
 [Curriculum Vitae]({{ "/cv/CV_Kniazeva_Anastasiia.pdf" | relative_url }}) | E-mail: [kniazeva.anastasiia.2015@post.bio.msu.ru](mailto:kniazeva.anastasiia.2015@post.bio.msu.ru) 
   </td>
   </tr>
+   <tr>
+<td markdown="span"> <img src="{{ "/assets/Krist.JPG" | relative_url }}" width="200px" /> </td>
+<td markdown="span"><b>Nikolay Kristovskiy - BSс student</b> 
+ <br> Nikolay is currently pursuing his BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
+[Curriculum Vitae]({{ "/cv/CV_Nikolay_Kristovsky.pdf" | relative_url }}) | E-mail: [n.kristovsky@intbio.org](mailto:n.kristovsky@intbio.org) 
+  </td>
+  </tr>
 
    <tr>
 <td markdown="span"> <img src="{{ "/assets/ag_photo.jpg" | relative_url }}" width="200px" /> </td>
