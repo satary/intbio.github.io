@@ -61,7 +61,7 @@ permalink: /team/
    <tr>
 <td markdown="span"> <img src="{{ "/assets/ag_photo.jpg" | relative_url }}" width="200px" /> </td>
 <td markdown="span"><b>Greshnova Alexandra - BSс student</b> <br> Alexandra is currently pursuing her BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University. <br>
-[Curriculum Vitae]({{ "/cv/CV_Greshnova.pdf" | relative_url }}) | E-mail: [a.greshnova@intbio.org](a.greshnova@intbio.org)
+[Curriculum Vitae]({{ "/cv/CV_Greshnova.pdf" | relative_url }}) | E-mail: [a.greshnova@intbio.org](mailto:a.greshnova@intbio.org)
   </td>
   </tr>
  <tr>
