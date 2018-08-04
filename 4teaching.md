@@ -7,8 +7,8 @@ permalink: /teaching/
 ---
 
 # Courses and workshops
-- Spring 2018 Bioinformatics course for 2 year BA students [http://intbio.org/bioinf2018](http://intbio.org/bioinf2018)
-- Fall 2018 Synthetic Biology Workshop [http://www.intbio.org/SynBioWS2018/](http://www.intbio.org/SynBioWS2018/)
+- Spring 2018 Bioinformatics course for 2 year BA students [http://intbio.org/bioinf2018](http://intbio.org/bioinf2018) (in Russian)
+- Fall 2018 Synthetic Biology Workshop [http://www.intbio.org/SynBioWS2018/](http://www.intbio.org/SynBioWS2018/) (in Russian)
 
 # Educational materials / Tutorials
 
