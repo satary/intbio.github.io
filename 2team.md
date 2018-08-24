@@ -76,5 +76,15 @@ permalink: /team/
  E-mail:[e.chistov@intbio.org](mailto:e.chistov@intbio.org)
   </td>
   </tr>
+  
+  <tr>
+ <td markdown="span"> <img src="{{ "/assets/IMG_6056.JPG" | relative_url }}" width="200px" /> </td>
+ <td markdown="span"><b>Novikov Roman - BSc student</b> <br> Roman is currently pursuing his BSc at the Bioengineering  Department, Faculty (School) of Biology, Moscow State University.<br> 
+ E-mail:[novikov.roman.2017@post.bio.msu.ru](mailto:novikov.roman.2017@post.bio.msu.ru)
+   </td>
+  </tr>
+  
+ 
+ 
 </tbody>
 </table>
