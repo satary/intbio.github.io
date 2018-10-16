@@ -279,6 +279,7 @@ Alexey Shaytan received his diploma in condensed matter physics from Moscow Stat
 			<li>Journal of Biomolecular Structure and Dynamics</li>
 			<li>Molecular Simulation/Journal of Experimental Nanoscience</li>
 			<li>Scientific Reports</li>
+			<li>Current Opinion in Structural Biology</li>
 		</ul>
 		</td>
 	<td>
