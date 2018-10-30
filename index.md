@@ -19,7 +19,9 @@ Our focus is on integrating and applying modern concepts and approaches from phy
 
  | Recent Papers | 
  | -------------
- | • [Hydroxyl-radical footprinting combined with molecular modeling identifies unique features of DNA conformation and nucleosome positioning ](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx616)
- | • [Coupling between Histone Conformations and DNA Geometry in Nucleosomes on a Microsecond Timescale: Atomistic Insights into Nucleosome Functions](http://www.sciencedirect.com/science/article/pii/S0022283615006956?via%3Dihub)
- | • [HistoneDB 2.0: a histone database with variants--an integrated resource to explore histones and their variants](https://academic.oup.com/database/article-lookup/doi/10.1093/database/baw014)
+ | • [Structural interpretation of DNA-protein hydroxyl-radical footprinting experiments with high resolution using HYDROID](https://www.nature.com/articles/s41596-018-0048-z), Nature Protocols 
+ | • [Molecular basis of CENP-C association with the CENP-A nucleosome at yeast centromeres](http://genesdev.cshlp.org/content/31/19/1958.long), Genes and Development
+ | • [Hydroxyl-radical footprinting combined with molecular modeling identifies unique features of DNA conformation and nucleosome positioning ](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx616), Nucleic Acids Research
+ | • [Coupling between Histone Conformations and DNA Geometry in Nucleosomes on a Microsecond Timescale: Atomistic Insights into Nucleosome Functions](http://www.sciencedirect.com/science/article/pii/S0022283615006956?via%3Dihub), Journal of Molecular Biology
+ | • [HistoneDB 2.0: a histone database with variants--an integrated resource to explore histones and their variants](https://academic.oup.com/database/article-lookup/doi/10.1093/database/baw014), Database
 
