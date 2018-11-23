@@ -7,7 +7,7 @@ draft: false
 ---
 
 
-{% highlight bash %}
+{% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
 end
