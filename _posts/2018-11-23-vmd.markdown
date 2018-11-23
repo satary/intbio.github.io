@@ -6,6 +6,9 @@ categories: jekyll update
 draft: false
 ---
 
+VMD (http://www.ks.uiuc.edu/Research/vmd/) is a powerful tool to analyze trajectories of molecular dyanmics simulations.
+Being a Mac user I always try to get it running on OS X compiled in x64 to be able to open large trajectory files.
+Compiling VMD for OS X is not always trivial. Here is a code tested on OS X 10.13.6 and OS X 10.14 and compiles bare bones VMD 1.9.3.
 
 {% highlight bash %}
 #!/bin/bash
