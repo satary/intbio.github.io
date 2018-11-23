@@ -11,6 +11,8 @@ draft: false
 #!/bin/bash
 #0. tested on mac os 10.13.6, 10.14
 #1. install Xcode first
+#2. Download vmd source v 1.9.3
+#3. Add vmdmac.r to the src directory https://www.ks.uiuc.edu/Research/vmd/mailing_list/vmd-l/0678.html
 #Set version manually! - that's important for fltk
 export OSX_VER=10.13.6
 #compiling fltk
