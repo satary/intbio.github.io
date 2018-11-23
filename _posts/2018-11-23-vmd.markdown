@@ -16,27 +16,6 @@ end
 
 
 #!/bin/bash
-#0. tested on mac os 10.13.6, 10.14
-#1. installed Xcode
-
-#Set version manually! - that's important for fltk
-export OSX_VER=10.13.6
-
-# compiling fltk
-# We need latest version
-
-cd vmd-1.9.3/lib/fltk
-
-wget http://fltk.org/pub/fltk/snapshots/fltk-1.4.x-r13117.tar.gz
-tar -xf fltk-1.4.x-r13117.tar.gz
-
-ln -s fltk-1.4.x-r13117 fltk
-
-ln -s fltk include
-cd fltk
-./configure --prefix="$PWD/../MACOSXX86_64" --exec-prefix="$PWD/../MACOSXX86_64" --libdir="$PWD/../MACOSXX86_64" CXXFLAGS="-mmacosx-version-min=$OSX_VER" LDFLAGS="-mmacosx-version-min=$OSX_VER"
-make -j 8
-make install
 
 
 
