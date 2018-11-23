@@ -1,26 +1,67 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Compiling VMD on Mac OS X"
 date:   2018-11-23 
 categories: jekyll update
 draft: false
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+{% highlight bash %}
+#!/bin/bash
+#0. tested on mac os 10.13.6, 10.14
+#1. installed Xcode
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+#Set version manually! - that's important for fltk
+export OSX_VER=10.13.6
+
+# compiling fltk
+# We need latest version
+
+cd vmd-1.9.3/lib/fltk
+
+wget http://fltk.org/pub/fltk/snapshots/fltk-1.4.x-r13117.tar.gz
+tar -xf fltk-1.4.x-r13117.tar.gz
+
+ln -s fltk-1.4.x-r13117 fltk
+
+ln -s fltk include
+cd fltk
+./configure --prefix="$PWD/../MACOSXX86_64" --exec-prefix="$PWD/../MACOSXX86_64" --libdir="$PWD/../MACOSXX86_64" CXXFLAGS="-mmacosx-version-min=$OSX_VER" LDFLAGS="-mmacosx-version-min=$OSX_VER"
+make -j 8
+make install
+
+
+cd ..
+cd ..
+cd ..
+cd ..
+export PLUGINDIR="$PWD/vmd-1.9.3/plugins"
+export export TCLINC=-I/System/Library/Frameworks/Tcl.framework/Versions/8.5/Headers
+export export TCLLIB=-L/System/Library/Frameworks/Tcl.framework/Versions/8.5/Headers
+cd plugins
+make   MACOSXX86_64 TCLINC=$TCLINC TCLLIB=$TCLLIB
+make   distrib 
+cd ../vmd-1.9.3
+
+echo "MACOSXX86_64 LP64 FLTKOPENGL FLTK TK  TCL PTHREADS " > configure.options
+
+#Fix code
+sed -i.bak 's/MACOSX/MACOSXX86/g' bin/vmd.sh
+sed -i.bak 's/MACOSX/MACOSXX86/g' bin/vmd.csh
+
+export VMDINSTALLBINDIR=$PWD/../../vmd-bin/bin #/usr/local/bin
+export VMDINSTALLLIBRARYDIR=$PWD/../../vmd-bin/vmd #/usr/local/lib/$install_name
+
+./configure 
+cd src
+sed -i.bak 's/fltk-1.3.x/fltk/g' Makefile
+sed -i.bak 's%../lib/tk/lib_MACOSXX86_64/Tk.framework/Versions/8.5/Headers%/System/Library/Frameworks/Tk.framework/Versions/8.5/Headers%g' Makefile
+make veryclean
+make -j 8
+make install
+
+$VMDINSTALLBINDIR/vmd
+
+
 {% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
