@@ -17,8 +17,12 @@
    <tr>
     <td valign="top">
   {{ content }}
-      
+  <table>
+    <thead>
   <th> Blog posts </th>
+      </thead>
+    <tbody>
+      <tr>
   <ul class="post-list">
     {% for post in site.posts %}
     {% unless post.draft %}
@@ -32,7 +36,9 @@
     {% endunless %}
     {% endfor %}
   </ul>
-      
+    </tr>
+    </tbody>
+  </table>    
       
      </td>
      <td></td>
