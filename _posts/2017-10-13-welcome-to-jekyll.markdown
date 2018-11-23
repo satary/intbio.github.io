@@ -7,7 +7,7 @@ draft: false
 ---
 
 
-{% highlight bash %}
+{% highlight ruby %}
 #!/bin/bash
 #0. tested on mac os 10.13.6, 10.14
 #1. installed Xcode
