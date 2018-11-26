@@ -182,7 +182,7 @@ sed -i.bak "s%-lnetcdf%$PREFIX/lib/libnetcdf.a%g" Makefile
 sed -i.bak "s%INCDIRS     =%INCDIRS     = -I$PREFIX/include%g" Makefile
 sed -i.bak "s%LIBDIRS     =%LIBDIRS     = -L$PREFIX/lib%g" Makefile
 sed -i.bak "s%-framework Python%-lpython2.7%g" Makefile
-rm -rf $VMDINSTALLBINDIR/vmd
+rm -rf $VMDINSTALLBINDIR/$VMDINSTALLNAME
 rm -rf $VMDINSTALLLIBRARYDIR
 make veryclean
 make -j 8
