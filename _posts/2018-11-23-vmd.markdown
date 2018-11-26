@@ -57,7 +57,7 @@ $VMDINSTALLBINDIR/vmd
 {% endhighlight %}
 
 It's always good to have a more full featured VMD with python support and additional libs.
-One convenient way is to compile vmd against the conda provided python and other libraries. The example below uses system compiler and framewors except for python. This makes it easy to install python packages later through conda and they will be available in vmd.
+One convenient way is to compile vmd against the conda provided python and other libraries. The example below uses system compiler and frameworks except for python. This makes it easy to install python packages later through conda and they will be available in vmd.
 
 {% highlight bash %}
 #!/bin/bash
