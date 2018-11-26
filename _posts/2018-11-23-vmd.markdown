@@ -189,3 +189,6 @@ make -j 8
 make install
 $VMDINSTALLBINDIR/$VMDINSTALLNAME
 {% endhighlight %}
+
+
+Finally, for convenience you might want to pack vmd as a conda package. Here is a recipe to start with [https://github.com/intbio/vmd-conda](https://github.com/intbio/vmd-conda) . Compiling for conda is more tricky since it uses its own toolchain/compiler and a specific MacSDK10.9. The recipe currently can compile a working conda package for vmd without python. A vmd+python build unfortunately crashes with a Segfault if run in graphics mode (text mode works).
