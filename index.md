@@ -14,7 +14,7 @@ Our focus is on integrating and applying modern concepts and approaches from phy
 
  | Our News | 
  | -------------
- | • 13 Вус'18 - Congratulations to Grigory Armeev on successfully defending his PHD thesis: "[Using molecular modeling methods to determine the structure of nucleosomes and their complexes with chromatin proteins](https://istina.msu.ru/dissertations/152610928/)"!
+ | • 13 Dec'18 - Congratulations to Grigory Armeev on successfully defending his PHD thesis: "[Using molecular modeling methods to determine the structure of nucleosomes and their complexes with chromatin proteins](https://istina.msu.ru/dissertations/152610928/)"!
  | • 14 Feb'18 - [We are delighted to join the synthetic biology community by becoming an iGEM lab](http://igem.org/Lab.cgi?id=489)
  | • 7 Nov'17 - [Alexey Shaytan and group are highlighted by the Journal of Molecular Biology Career Advancement Initiative](https://www.journals.elsevier.com/journal-of-molecular-biology/jmb-career-advancement-initiative/alexey-shaytan)
 
