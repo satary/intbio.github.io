@@ -15,7 +15,7 @@ permalink: /agreshnova
 
 <tr class="rowu">
 		<td markdown="span">
-			<img src="{{ "/assets/Грешнова.png" | relative_url }}" width="200px" />
+			<img src="{{ "/assets/Greshnova.png" | relative_url }}" width="200px" />
 		</td>
 		<td>
 			<table>
