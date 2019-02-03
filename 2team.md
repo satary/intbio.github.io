@@ -45,8 +45,8 @@ permalink: /team/
 </td>
 </tr>
   <tr>
-<td markdown="span"> <img src="{{ "/assets/photo_kas.jpg" | relative_url }}" width="200px" /> </td>
-<td markdown="span"><b>Kniazeva Anastasiia - BSс student</b> <br> Anastasiia is currently pursuing her BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
+<td markdown="span"> <img src="{{ "/assets/kniazeva.jpg" | relative_url }}" width="200px" /> </td>
+ <td markdown="span"><b>Kniazeva Anastasiia - BSс student</b> <br> Anastasiia is currently pursuing her BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>		 <td markdown="span"><b>Anastasiia S. Kniazeva - BSс student</b> <br> Anastasiia is currently pursuing her BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
 [Curriculum Vitae]({{ "/cv/CV_Kniazeva_Anastasiia.pdf" | relative_url }}) | E-mail: [a.kniazeva@intbio.org](mailto:a.kniazeva@intbio.org) 
   </td>
   </tr>
