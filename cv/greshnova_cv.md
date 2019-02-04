@@ -60,7 +60,7 @@ permalink: /agreshnova
 		<td valign="top"><b>CONTACT</b></td>
 		<td>
 			<table>
-				<tr><td align="right">E-mail:</td><td><a href="mailto:greshnova.aleksandra@gmail.com">a.greshnova@intbio.org</a></td></tr>
+				<tr><td align="right">E-mail:</td><td><a href="mailto:a.greshnova@intbio.org">a.greshnova@intbio.org</a></td></tr>
 				<tr><td align="right">Skype:</td><td>sasha.grrshnova98</td></tr>
 				<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
 			</table>
