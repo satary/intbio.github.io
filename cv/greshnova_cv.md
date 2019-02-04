@@ -38,7 +38,12 @@ permalink: /agreshnova
 									<a target="_blank" title="find us on VK" href="https://vk.com/sashagreshnova"> <img src="{{ "/assets/vk.png" | relative_url }}" width="36" height="20" style="border:1px solid white" alt="follow me on VK"/> </a>
 			
 								</td>
+								
 							</tr>
+							<tr>
+								[Curriculum Vitae]({{ "/cv/Greshnova_CV.pdf" | relative_url }})
+							</tr>
+							
 							
 							
 							
@@ -55,8 +60,7 @@ permalink: /agreshnova
 		<td valign="top"><b>CONTACT</b></td>
 		<td>
 			<table>
-				<tr><td align="right">E-mail:</td><td><a href="mailto:greshnova.aleksandra@gmail.com">greshnova.aleksandra@gmail.com</a></td></tr>
-				<tr><td align="right">Tel:</td><td>+7 985 690 09 37</td></tr>
+				<tr><td align="right">E-mail:</td><td><a href="mailto:greshnova.aleksandra@gmail.com">a.greshnova@intbio.org</a></td></tr>
 				<tr><td align="right">Skype:</td><td>sasha.grrshnova98</td></tr>
 				<tr><td align="right">Address:</td><td>Bioengineering Department, Faculty of Biology, Moscow State University, 1 Leninskie Gory, building 73, Moscow, 119991 Russia</td></tr>
 			</table>
