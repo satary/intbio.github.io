@@ -70,12 +70,6 @@ permalink: /team/
  E-mail:[v.adlerberg@intbio.org](mailto:v.adlerberg@intbio.org)
   </td>
   </tr>
-  <tr>
-  <td markdown="span"> <img src="{{ "/assets/ChG.jpg" | relative_url }}" width="200px" /> </td>
-<td markdown="span"><b>Chistov Georgy - BSc student</b> <br> Georgy is currently pursuing his BSc at the Bioengineering  Department, Faculty (School) of Biology, Moscow State University.<br> 
- E-mail:[e.chistov@intbio.org](mailto:e.chistov@intbio.org)
-  </td>
-  </tr>
   
   <tr>
  <td markdown="span"> <img src="{{ "/assets/IMG_6056.JPG" | relative_url }}" width="200px" /> </td>
