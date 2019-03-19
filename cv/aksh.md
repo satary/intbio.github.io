@@ -117,6 +117,7 @@ Alexey Shaytan received his diploma in condensed matter physics from Moscow Stat
 		<td valign="top"><b>AWARDS<br>SCHOLARSHIPS</b></td>
 		<td>
 			<table class="rowu">	
+				<tr class="rowu"><td align="center">2018</td><td align="center"><b></b></td><td>Moscow City Government Award for Young Scientists</td></tr>
 				<tr class="rowu"><td align="center">2013</td><td align="center"><b></b></td><td>Scholarship of US-Russia Collaboration in the Biomedical Sciences NIH Visiting Fellows Program</td></tr>
 				<tr class="rowu"><td align="center">2013</td><td align="center"><b></b></td><td>Finalist of the 37-th competition of scientific works by young scientists of Lomonosov Moscow state University</td></tr>
 				<tr class="rowu"><td align="center">2012</td><td align="center"><b></b></td><td>Finalist of the contest of works by talented students, graduates and young scientists of Lomonosov Moscow State University established by O.V. Deripaska</td></tr>
@@ -185,7 +186,8 @@ Alexey Shaytan received his diploma in condensed matter physics from Moscow Stat
 				<tr><td align="center" colspan="2"><a href="https://goo.gl/6W1QKS" style="background-color: #b7f3b7;">GoogleScholar</a> <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=shaytan+a%5Bauth%5D" style="background-color: #b7f3ee;"> Pubmed</a> <a href="https://paperpile.com/shared/6HnKBc" style="background-color: #ff97ec">Complete list of publications with PDFs</a></td></tr>
 			<tr><td align="center" colspan="2"><b>Selected papers</b></td></tr>
 			<!-- https://docs.google.com/document/d/e/2PACX-1vRTwm9QaWFJeoQ1PuP7I9X4rAyMig-QG2KzqFKglMvmQlAXuw0mbjdQYqpUFsFhutiQw_8C549aQA-g/pub -->
-			<tr class="rowu"><td>2018</td><td align="left"><u>Shaytan AK*</u>, Xiao H, Armeev G, et al. Structural interpretation of DNA-protein hydroxyl-radical footprinting experiments with high resolution using HYDROID<b>Nature Protocols</b> 2018; in press</td></tr>
+	    		<tr class="rowu"><td>2019</td><td align="left">Armeev GA, Gribkova AK, Pospelova I, Komarova GA,<u>Shaytan AK*</u>. Linking chromatin composition and structural dynamics at the nucleosome level<b>Curr Opin Struct Biol</b> 2018; doi:<a href="http://dx.doi.org/10.1016/j.sbi.2018.11.006">10.1016/j.sbi.2018.11.006</a>*-corresponding author</td></tr>
+			<tr class="rowu"><td>2018</td><td align="left"><u>Shaytan AK*</u>, Xiao H, Armeev G, et al. Structural interpretation of DNA-protein hydroxyl-radical footprinting experiments with high resolution using HYDROID<b>Nature Protocols</b> 2018; doi:<a href="http://dx.doi.org/10.1038/s41596-018-0048-z">10.1038/s41596-018-0048-z</a>; *-corresponding author</td></tr>
 			<tr class="rowu"><td>2017</td><td align="left">Xiao H, Wang F*, Wisniewski J*, <u>Shaytan AK*</u>, Ghirlando R, FitzGerald PC, et al. Molecular basis of CENP-C association with the CENP-A nucleosome at yeast centromeres. <b>Genes Dev.</b> 2017; doi:<a href="http://dx.doi.org/10.1101/gad.304782.117">10.1101/gad.304782.117</a>; *-equal contribution</td></tr>
 
 			<tr class="rowu"><td>2017</td><td align="left"><u>Shaytan AK*</u>, Xiao H*, Armeev GA, Wu C, Landsman D, Panchenko AR. Hydroxyl-radical footprinting combined with molecular modeling identifies unique features of DNA conformation and nucleosome positioning. <b>Nucleic Acids Res.</b> 2017;45: 9229–9243. doi:<a href="http://dx.doi.org/10.1093/nar/gkx616">10.1093/nar/gkx616</a>; *-equal contribution</td></tr>
