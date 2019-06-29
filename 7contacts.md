@@ -14,7 +14,7 @@ Tel/Fax: +7 495 939 57 38
 
 ## Mailing address
  Bioengineering Department, Faculty of Biology, Moscow State University,
- 1 Leninskie Gory, building 73, Moscow, 119991 Russia
+ 1 Leninskie Gory, building 73, Moscow, 119234 Russia
 
 ## Our Location
 1 Leninskie Gory, building 73 (Laboratory Building B), room 505 (5th floor, Department of Bioengineering),
