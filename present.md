@@ -6,6 +6,7 @@ permalink: /present/
 ---
 
 # Presentations
+- Лекция 2-3 курс Биоинформатика МГУ Биофак [presentation](https://www.dropbox.com/s/18fri9qonbq9nbf/lecture2-3.pptx?dl=0)
 - MCCMB 2019 [presentation](https://www.dropbox.com/s/q7wjs4sl6268owv/shaytan_mccmb_2019.pptx?dl=0)
 - FEBS Congress 2019 [presentation](https://www.dropbox.com/s/usavbspa0ru9hfs/shaytan_febs_new.pptx?dl=0)
 - [Молекуляное моделирование, Биомнформатика, Лекция 16 для 2 курса](https://www.dropbox.com/s/71azg4j9hw8mpo4/Lecture16.ppt?dl=0). [folder](https://www.dropbox.com/sh/owb01q5b7bvbj7j/AADgLcaNbqgDtyZYay6X0OHQa?dl=0)
