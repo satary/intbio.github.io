@@ -16,6 +16,7 @@ permalink: /present/
 - [Лекция по геномике для центра эндокринологии](https://www.dropbox.com/s/tt0xo8grj6q5wnr/genomic_data.pptx?dl=0)
 - [Сириус генинж2019](https://www.dropbox.com/s/ttwbnemxbjd8dhd/GenEng_Lecture_SiriusFeb2019.pptx?dl=0)
 - [Сириус синбио2019](https://www.dropbox.com/s/89ewowk3809zs7n/SynBio_Lecture_SiriusFeb2019.pptx?dl=0)
+- [Школа эпиген 2019](https://www.dropbox.com/s/d1dcqtb5yu42ros/%D0%A1%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B%20%D0%BA%20%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D1%83%20%D0%9C%D0%9F%20%D0%9A%D0%B8%D1%80%D0%BF%D0%B8%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0.pptx?dl=0)
 
 ## Тезисы
 - [биофизич съезд](https://drive.google.com/file/d/1Sbvq-0tKhdbXvu4f_WldkGYGgihVN08g/view?usp=sharing)
