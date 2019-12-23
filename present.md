@@ -19,6 +19,7 @@ permalink: /present/
 - [Школа эпиген 2019](https://www.dropbox.com/s/d1dcqtb5yu42ros/%D0%A1%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B%20%D0%BA%20%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D1%83%20%D0%9C%D0%9F%20%D0%9A%D0%B8%D1%80%D0%BF%D0%B8%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0.pptx?dl=0)
 - [NCBI oct 2019](https://www.dropbox.com/s/gxd4zg640x4nxz8/shaytan_2019.pptx?dl=0)
 - [Supercom Nov 2019](https://www.dropbox.com/s/waqdl5gs27lttxf/shaytan_supercomp_2019.pptx?dl=0)
+- [Точка кипения 2019](https://www.dropbox.com/s/56ozzzmhry1km42/shaytan.pptx?dl=0)
 
 ## Тезисы
 - [биофизич съезд](https://drive.google.com/file/d/1Sbvq-0tKhdbXvu4f_WldkGYGgihVN08g/view?usp=sharing)
