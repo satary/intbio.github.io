@@ -5,7 +5,7 @@ weight: 7
 permalink: /pub_lect/
 ---
 
-# Материалы обазовательный лекций - Шайтан А.К.
+# Материалы обазовательных лекций - Шайтан А.К.
 - [Введения в теорию информации и обзор биологических баз данных. Обзорная лекция для студентов 2 курса биофака МГУ](https://www.dropbox.com/s/18fri9qonbq9nbf/lecture2-3.pptx?dl=0)
 - [Молекуляное моделирование в боилогии. Обзорная лекция для студентов 2 курса биофака МГУ](https://www.dropbox.com/s/71azg4j9hw8mpo4/Lecture16.ppt?dl=0). [folder](https://www.dropbox.com/sh/owb01q5b7bvbj7j/AADgLcaNbqgDtyZYay6X0OHQa?dl=0)
 - [Геномика. Обзорная лекция для студентов 2 курса биофака МГУ](https://www.dropbox.com/s/yg01kygxytsdnq4/2018-19_lecture22_genomics.pptx?dl=0)
