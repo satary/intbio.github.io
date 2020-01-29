@@ -20,6 +20,7 @@ permalink: /present/
 - [NCBI oct 2019](https://www.dropbox.com/s/gxd4zg640x4nxz8/shaytan_2019.pptx?dl=0)
 - [Supercom Nov 2019](https://www.dropbox.com/s/waqdl5gs27lttxf/shaytan_supercomp_2019.pptx?dl=0)
 - [Точка кипения 2019](https://www.dropbox.com/s/56ozzzmhry1km42/shaytan.pptx?dl=0)
+- [МКО 2020](https://www.dropbox.com/s/jlch7zh55n76g6f/shaytan_2020.pptx?dl=0)
 
 ## Тезисы
 - [биофизич съезд](https://drive.google.com/file/d/1Sbvq-0tKhdbXvu4f_WldkGYGgihVN08g/view?usp=sharing)
