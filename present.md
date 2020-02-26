@@ -22,6 +22,8 @@ permalink: /present/
 - [Точка кипения 2019](https://www.dropbox.com/s/56ozzzmhry1km42/shaytan.pptx?dl=0)
 - [МКО 2020](https://www.dropbox.com/s/jlch7zh55n76g6f/shaytan_2020.pptx?dl=0)
 - [Лекция Геномика, Курс Биоинформатика 19-20 годы](https://www.dropbox.com/s/jl6ouppao2h9sbg/2019-20_lecture16_genomics.pptx?dl=0)
+- [XFEL мембранных белков, 26 feb 2020](https://www.dropbox.com/s/q1opvphqeo3hj73/serial_membr_xfel.pptx?dl=0)
+- [NIH careers panel discussion, 26 feb 2020](https://www.dropbox.com/s/ido9fvr0qwvunop/shaytan_2020.pptx?dl=0)
 
 
 ## Тезисы
