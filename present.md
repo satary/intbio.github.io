@@ -24,6 +24,7 @@ permalink: /present/
 - [Лекция Геномика, Курс Биоинформатика 19-20 годы](https://www.dropbox.com/s/jl6ouppao2h9sbg/2019-20_lecture16_genomics.pptx?dl=0)
 - [XFEL мембранных белков, 26 feb 2020](https://www.dropbox.com/s/q1opvphqeo3hj73/serial_membr_xfel.pptx?dl=0)
 - [NIH careers panel discussion, 26 feb 2020](https://www.dropbox.com/s/ido9fvr0qwvunop/shaytan_2020.pptx?dl=0)
+- [Материалы для семинара: Введение в структурную биолоигю - молекулярное моделирование](https://www.dropbox.com/sh/owb01q5b7bvbj7j/AADgLcaNbqgDtyZYay6X0OHQa?dl=0)
 
 
 ## Тезисы
