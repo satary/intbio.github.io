@@ -13,7 +13,7 @@ permalink: /teaching/
 - Fall 2019, Synthetic Biology Workshop for 3d year BA students [http://www.intbio.org/SynBioWS2019](http://www.intbio.org/SynBioWS2018/) (in Russian)
 - February 2019, Synthetic biology workshop for school students at Sirius Camp, Sochi [https://synbio.ru/sirius2019](https://synbio.ru/sirius2019/) (in Russian)
 - September 2018, Synthetic biology workshop for school students at Sirius Camp, Sochi [https://synbio.ru/sirius2018](https://synbio.ru/sirius2018/) (in Russian)
-- August 2020, Introduction to bioengineering [https://github.com/intbio/engbio_sirius_2020](https://github.com/intbio/engbio_sirius_2020) (in Russian)
+- August 2020, Introduction to bioengineering [http://intbio.org/engbio_sirius_2020](http://intbio.org/engbio_sirius_2020/) (in Russian)
 
 # Educational materials / Tutorials
 
