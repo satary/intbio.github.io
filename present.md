@@ -25,6 +25,7 @@ permalink: /present/
 - [XFEL мембранных белков, 26 feb 2020](https://www.dropbox.com/s/q1opvphqeo3hj73/serial_membr_xfel.pptx?dl=0)
 - [NIH careers panel discussion, 26 feb 2020](https://www.dropbox.com/s/ido9fvr0qwvunop/shaytan_2020.pptx?dl=0)
 - [Материалы для семинара: Введение в структурную биолоигю - молекулярное моделирование](https://www.dropbox.com/sh/owb01q5b7bvbj7j/AADgLcaNbqgDtyZYay6X0OHQa?dl=0)
+- [Фестиваль науки - инженерные подходы в биологии](https://www.dropbox.com/s/ew90zhv4erp31v9/Shaytan_v2.pptx?dl=0)
 
 
 ## Тезисы
