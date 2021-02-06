@@ -7,6 +7,7 @@ permalink: /teaching/
 ---
 
 # Courses and workshops
+- Molecular modeling 2021 spring [http://intbio.org/mol_model_course/](http://intbio.org/mol_model_course/)
 - August 2020, Introduction to bioengineering [http://intbio.org/engbio_sirius_2020](http://intbio.org/engbio_sirius_2020/) (in Russian)
 - Fall/Spring 2020/2021 Bioinformatics course for 2 year BA students [https://intbio.org/bioinf2020-2021](https://intbio.org/bioinf2020-2021/) (in Russian) 
 - February 2019, Synthetic biology workshop for school students at Sirius Camp, Sochi [https://engbio.ru/sirius2019](https://engbio.ru/sirius2019/) (in Russian)
